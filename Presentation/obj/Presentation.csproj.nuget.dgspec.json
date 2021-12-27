@@ -1,0 +1,237 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mesuttalebi/RiderProjects/TestWebBlog/Presentation/Presentation.csproj": {}
+  },
+  "projects": {
+    "/Users/mesuttalebi/RiderProjects/TestWebBlog/Business/Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mesuttalebi/RiderProjects/TestWebBlog/Business/Business.csproj",
+        "projectName": "Business",
+        "projectPath": "/Users/mesuttalebi/RiderProjects/TestWebBlog/Business/Business.csproj",
+        "packagesPath": "/Users/mesuttalebi/.nuget/packages/",
+        "outputPath": "/Users/mesuttalebi/RiderProjects/TestWebBlog/Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mesuttalebi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/mesuttalebi/RiderProjects/TestWebBlog/Domain/Domain.csproj": {
+                "projectPath": "/Users/mesuttalebi/RiderProjects/TestWebBlog/Domain/Domain.csproj"
+              },
+              "/Users/mesuttalebi/RiderProjects/TestWebBlog/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/mesuttalebi/RiderProjects/TestWebBlog/Infrastructure/Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mesuttalebi/RiderProjects/TestWebBlog/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mesuttalebi/RiderProjects/TestWebBlog/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/mesuttalebi/RiderProjects/TestWebBlog/Domain/Domain.csproj",
+        "packagesPath": "/Users/mesuttalebi/.nuget/packages/",
+        "outputPath": "/Users/mesuttalebi/RiderProjects/TestWebBlog/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mesuttalebi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mesuttalebi/RiderProjects/TestWebBlog/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mesuttalebi/RiderProjects/TestWebBlog/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/Users/mesuttalebi/RiderProjects/TestWebBlog/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/mesuttalebi/.nuget/packages/",
+        "outputPath": "/Users/mesuttalebi/RiderProjects/TestWebBlog/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mesuttalebi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/mesuttalebi/RiderProjects/TestWebBlog/Domain/Domain.csproj": {
+                "projectPath": "/Users/mesuttalebi/RiderProjects/TestWebBlog/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mesuttalebi/RiderProjects/TestWebBlog/Presentation/Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mesuttalebi/RiderProjects/TestWebBlog/Presentation/Presentation.csproj",
+        "projectName": "Presentation",
+        "projectPath": "/Users/mesuttalebi/RiderProjects/TestWebBlog/Presentation/Presentation.csproj",
+        "packagesPath": "/Users/mesuttalebi/.nuget/packages/",
+        "outputPath": "/Users/mesuttalebi/RiderProjects/TestWebBlog/Presentation/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mesuttalebi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/mesuttalebi/RiderProjects/TestWebBlog/Business/Business.csproj": {
+                "projectPath": "/Users/mesuttalebi/RiderProjects/TestWebBlog/Business/Business.csproj"
+              },
+              "/Users/mesuttalebi/RiderProjects/TestWebBlog/Domain/Domain.csproj": {
+                "projectPath": "/Users/mesuttalebi/RiderProjects/TestWebBlog/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
